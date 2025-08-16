@@ -1,0 +1,90 @@
+.skills {
+  padding: 60px;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #1e1e2f, #2c3e50);
+  color: #fff;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+}
+
+.skills h1 {
+  font-size: 2.8rem;
+  margin-bottom: 50px;
+  color: #04d9ff;
+  animation: fadeInTitle 1s ease forwards;
+}
+
+@keyframes fadeInTitle {
+  from { opacity: 0; transform: translateY(-20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.skill-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+  margin-bottom: 50px;
+}
+
+@media (max-width: 900px) {
+  .skill-row {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .skill-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+.skill-box {
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(10px);
+  border-radius: 16px;
+  padding: 30px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  animation: fadeInBox 1s ease forwards;
+  opacity: 0;
+}
+
+.skill-box:hover {
+  transform: scale(1.03);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.4);
+}
+
+@keyframes fadeInBox {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.skill-box h2 {
+  font-size: 1.6rem;
+  margin-bottom: 20px;
+  color: #00c9a7;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  padding-bottom: 10px;
+}
+
+.skill-box ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 10px;
+}
+
+.skill-box li {
+  font-size: 1rem;
+  margin-bottom: 10px;
+  color: #e0e0e0;
+  position: relative;
+  padding-left: 18px;
+}
+
+.skill-box li::before {
+  content: '▹';
+  position: absolute;
+  left: 0;
+  color: #04d9ff;
+  font-weight: bold;
+}
