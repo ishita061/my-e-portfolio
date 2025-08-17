@@ -48,11 +48,14 @@ This portfolio demonstrates my:
 ## 🔗 Live Demo
 
 👉 Click here to view my portfolio
-my-e-portfolio-kappa.vercel.app/
+https://my-e-portfolio-kappa.vercel.app/
 
 ## 📬 Contact
 
 👩‍💻 Ishita Chaturvedi
+
 📧 ishitaishita061@gmail.com
+
 💼 https://www.linkedin.com/in/ishita-chaturvedi-943441303/
+
 💼 https://github.com/ishita061
