@@ -29,7 +29,11 @@ Deployment: (Netlify, Vercel, or Render/Heroku — whichever you used)
 
 (Add a screenshot or GIF of your portfolio homepage here to visually attract recruiters.)
 
+
+
 ##📂 Project Structure
+
+
 <img width="711" height="149" alt="image" src="https://github.com/user-attachments/assets/62855c0f-1724-4ea5-affb-b817f3243121" />
 
 🎯 Why This Project?
