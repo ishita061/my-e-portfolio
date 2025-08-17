@@ -1,10 +1,10 @@
-#🌐 E-Portfolio
+# 🌐 E-Portfolio
 
 A modern, responsive, and interactive e-portfolio built using React.js (frontend) and Node.js (backend) to showcase my skills, projects, and experience as a developer.
 
 This project reflects my ability to build scalable full-stack applications with clean UI/UX and efficient backend integration — the same principles I apply in real-world software development.
 
-##🚀 Features
+## 🚀 Features
 
 📖 About Me Section – highlights skills, education, and career goals.
 
@@ -18,25 +18,23 @@ This project reflects my ability to build scalable full-stack applications with 
 
 🌍 Deployed Version – hosted online for quick access.
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Frontend: React.js, Tailwind CSS (or your CSS framework)
 Backend: Node.js, Express.js
-Database (if used): MongoDB / MySQL / (specify yours)
-Deployment: (Netlify, Vercel, or Render/Heroku — whichever you used)
+Deployment: Vercel
 
-##📸 Preview
+## 📸 Preview
 
-(Add a screenshot or GIF of your portfolio homepage here to visually attract recruiters.)
-
+<img width="1916" height="1076" alt="image" src="https://github.com/user-attachments/assets/77772756-cacc-4d55-a58f-c0c3710752d4" />
 
 
-##📂 Project Structure
+## 📂 Project Structure
 
 
 <img width="711" height="149" alt="image" src="https://github.com/user-attachments/assets/62855c0f-1724-4ea5-affb-b817f3243121" />
 
-🎯 Why This Project?
+## 🎯 Why This Project?
 
 Recruiters often look for problem-solving ability, code quality, and creativity.
 This portfolio demonstrates my:
@@ -47,12 +45,12 @@ This portfolio demonstrates my:
 
 -> Professionalism → Presenting myself in a structured and modern way.
 
-##🔗 Live Demo
+## 🔗 Live Demo
 
 👉 Click here to view my portfolio
 my-e-portfolio-kappa.vercel.app/
 
-##📬 Contact
+## 📬 Contact
 
 👩‍💻 Ishita Chaturvedi
 📧 ishitaishita061@gmail.com
