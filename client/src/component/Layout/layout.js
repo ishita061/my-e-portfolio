@@ -25,7 +25,7 @@ const Layout = () => {
         </ul>
 
         <div className="action-buttons">
-          <a href="/ishita_resume_paypal.pdf" target="_blank" className="btn">Resume</a>
+          <a href="/ishita_resume.pdf" target="_blank" className="btn">Resume</a>
         </div>
       </nav>
 
